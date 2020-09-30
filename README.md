@@ -1,6 +1,6 @@
 HW #06 Open Weather API
 
-URL: 
+URL: https://jlarias311.github.io/Open_Weather_API/
 
 In this project I worked with The Open Weather API to grab particular information I wanted to display on my weather forcast webpage.
 
